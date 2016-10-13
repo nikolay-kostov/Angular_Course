@@ -1,9 +1,9 @@
 {
-  "name": "new-angular-app",
+  "name": "ng-trello",
   "description": "",
   "main": "index.js",
   "authors": [
-    "Samuil Gospodinov <samuil4@gmail.com>"
+    "Nikolay Kostov <kostov.dev@gmail.com>"
   ],
   "license": "ISC",
   "homepage": "",
@@ -19,6 +19,7 @@
     "angular-ui-router": "^0.3.1"
   },
   "devDependencies": {
-    "materialize": "^0.97.7"
+    "materialize": "^0.97.7",
+    "angular-materialize": "^0.2.1"
   }
 }
